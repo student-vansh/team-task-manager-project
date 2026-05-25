@@ -220,6 +220,12 @@ node app.js      # Start server
 
 ---
 
+## Deployment
+
+For step-by-step deploy instructions (MongoDB Atlas + Render + Vercel), see **[DEPLOYMENT.md](./DEPLOYMENT.md)**.
+
+---
+
 ## Author
 
 **Vansh Kumar**
