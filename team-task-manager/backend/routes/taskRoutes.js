@@ -1,8 +1,8 @@
 const express = require("express");
 
-const Task = require("../models/Task");
+const Task = require("../models/task");
 
-const Project = require("../models/Project");
+const Project = require("../models/project");
 
 const isAuthenticated = require("../middleware/authMiddleware");
 
