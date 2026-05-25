@@ -43,7 +43,7 @@ app.get(
 
 );
 
-const frontendUrl = process.env.FRONTEND_URL || "http://localhost:5173";
+const frontendUrl = process.env.FRONTEND_URL || "https://team-task-manager-project-frontend.onrender.com";
 const isProduction = process.env.NODE_ENV === "production";
 
 app.use(
